@@ -1,2 +1,2 @@
 # SEM4-AI-
-AI assignments
+AI assignments and lab exps
